@@ -13,5 +13,8 @@ dependencyResolutionManagement {
 
     }
 }
+
+
+
 rootProject.name = "Note It"
 include ':app'
